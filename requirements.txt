@@ -1,0 +1,27 @@
+# Core dependencies for Multi-Person Drowsiness Detection System (MediaPipe Version)
+
+# Computer Vision and Image Processing
+opencv-python
+mediapipe
+numpy
+scipy
+
+# Deep Learning and Object Detection
+ultralytics
+torch
+torchvision
+
+# GUI Framework
+PyQt5
+
+# Utility Libraries
+Pillow
+matplotlib
+
+# System and Performance Monitoring
+psutil
+requests
+pytest
+ipykernel
+imutils
+ipywidgets
